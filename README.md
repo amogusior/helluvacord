@@ -1,3 +1,5 @@
-# helluvacord
-# umm some random bullshit aliucord theme
-# as you guess its helluva boss themed
+helluvacord
+
+umm some random bullshit aliucord theme
+
+as you guess its helluva boss themed

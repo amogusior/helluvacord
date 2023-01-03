@@ -1,3 +1,5 @@
+# outdated af
+
 helluvacord
 
 umm some random aliucord theme
